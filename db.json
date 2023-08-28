@@ -1,0 +1,19 @@
+{
+  "cuenta": {
+    "saldo": 1000
+  },
+  "transacciones": [
+    {
+      "valor": "100",
+      "transaccion": "retiro",
+      "data": "25/09/2021",
+      "id": 1
+    },
+    {
+      "transaccion": "deposito",
+      "valor": "200",
+      "data": "25/09/2021",
+      "id": 2
+    }
+  ]
+}
